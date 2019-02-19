@@ -1,0 +1,14 @@
+C:\Temp\corewebapi\bin\Debug\netcoreapp2.2\corewebapi.deps.json
+C:\Temp\corewebapi\bin\Debug\netcoreapp2.2\corewebapi.runtimeconfig.json
+C:\Temp\corewebapi\bin\Debug\netcoreapp2.2\corewebapi.runtimeconfig.dev.json
+C:\Temp\corewebapi\bin\Debug\netcoreapp2.2\corewebapi.dll
+C:\Temp\corewebapi\bin\Debug\netcoreapp2.2\corewebapi.pdb
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.csprojAssemblyReference.cache
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.csproj.CoreCompileInputs.cache
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.RazorAssemblyInfo.cache
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.RazorAssemblyInfo.cs
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.AssemblyInfoInputs.cache
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.AssemblyInfo.cs
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.RazorTargetAssemblyInfo.cache
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.dll
+C:\Temp\corewebapi\obj\Debug\netcoreapp2.2\corewebapi.pdb
