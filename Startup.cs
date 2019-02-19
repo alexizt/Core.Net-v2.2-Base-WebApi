@@ -59,6 +59,16 @@ namespace corewebapi
                 };
             });
 
+            //Adding CORS to enable authentiaction from other domain
+            services.AddCors(options =>
+            {
+                options.AddPolicy("EnableCORS", builder =>
+                {
+                builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod().AllowCredentials().Build();
+                });
+            });
+
+            // Adding authorization Policies
             services.AddAuthorization(options =>
             {
                 options.AddPolicy("Administrator", policy => policy.RequireClaim("IsAdmin"));
@@ -107,8 +117,12 @@ namespace corewebapi
             // Seeding Datatabase
             DBSeeder.AddTestData(dataContext);
 
-            // Adding JWT Authentication Runtime 
+            // Adding JWT Authentication middleware
             app.UseAuthentication();
+
+            // Adding CORS middleware
+            app.UseCors("EnableCORS");
+
             app.UseHttpsRedirection();
             app.UseMvc();
 
