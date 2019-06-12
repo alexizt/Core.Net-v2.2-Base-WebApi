@@ -26,3 +26,16 @@ D:\Temp\CoreNetWebApi\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\coreweba
 D:\Temp\CoreNetWebApi\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.RazorTargetAssemblyInfo.cache
 D:\Temp\CoreNetWebApi\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.dll
 D:\Temp\CoreNetWebApi\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.pdb
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\bin\Debug\netcoreapp2.2\corewebapi.deps.json
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\bin\Debug\netcoreapp2.2\corewebapi.runtimeconfig.json
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\bin\Debug\netcoreapp2.2\corewebapi.runtimeconfig.dev.json
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\bin\Debug\netcoreapp2.2\corewebapi.dll
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\bin\Debug\netcoreapp2.2\corewebapi.pdb
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.RazorAssemblyInfo.cache
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.RazorAssemblyInfo.cs
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.AssemblyInfoInputs.cache
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.AssemblyInfo.cs
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.RazorTargetAssemblyInfo.cache
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.dll
+C:\Users\Ale\source\repos\alexizt\Core.Net-v2.2-Base-WebApi\obj\Debug\netcoreapp2.2\corewebapi.pdb

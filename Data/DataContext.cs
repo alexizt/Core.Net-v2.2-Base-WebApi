@@ -8,4 +8,5 @@ public class DataContext : DbContext
     { }
 
     public DbSet<Blog> Blogs { get; set; }
+    public DbSet<RefreshToken> RefreshTokens { get; set; }
 }
